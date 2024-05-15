@@ -1,0 +1,28 @@
+Pony Mail STATUS:
+Last modified at [19 Sept 2016]
+
+The current version of this file can be found at:
+
+  * https://git-wip-us.apache.org/repos/asf?p=incubator-ponymail.git;a=blob_plain;f=STATUS
+
+The purpose of this file is to track proposed changes to master. Each
+proposed change requires a +1 from two people, one of which may be from
+the original author, provided the author is a committer on the pony mail
+project. Once sufficient +1s have been reached, either party may merge
+the changes to master.
+
+PATCHES/ISSUES THAT ARE PROPOSED FOR MASTER:
+
+  * Make sure we don't archive emails with NULL-bodies.
+    commit: 81bd75a42ce8fa3387c3bc371785de96f2ee047b
+    shortlog: https://git-wip-us.apache.org/repos/asf?p=incubator-ponymail.git;a=shortlog;h=refs/heads/null-bodies
+    +1: Humbedooh, ucb
+
+--------
+   Example: 
+  * Fix all the Ponies
+    commit: bd27ae9a5099b1591d3d2c27a2c2c631350553ca
+    shortlog: https://git-wip-us.apache.org/repos/asf?p=incubator-ponymail.git;a=shortlog;h=refs/heads/fix-ponies
+    +1: Humbedooh, ucb
+
+
